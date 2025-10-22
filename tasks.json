@@ -1,0 +1,14 @@
+[
+  {
+    "task_name": "吃屎",
+    "enabled": true,
+    "keyword": "n100",
+    "cron": "0 3 * * *",
+    "description": "吃屎",
+    "max_pages": 1,
+    "personal_only": false,
+    "min_price": "1",
+    "max_price": "1111111",
+    "task_id": 0
+  }
+]
